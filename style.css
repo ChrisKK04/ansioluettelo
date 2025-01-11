@@ -6,3 +6,16 @@ body {
   padding: 4em 1em;
   color: rgb(56, 56, 56);
 }
+
+.kuva {
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 10px;
+}
+
+.kuvateksti {
+  display: block;
+  text-align: center;
+  font-size: 14px;
+}
